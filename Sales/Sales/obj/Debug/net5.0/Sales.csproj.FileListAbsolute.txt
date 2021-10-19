@@ -1,0 +1,15 @@
+/Users/johnmeissner/Documents/Projects/Sales/Sales/bin/Debug/net5.0/Sales.deps.json
+/Users/johnmeissner/Documents/Projects/Sales/Sales/bin/Debug/net5.0/Sales.runtimeconfig.json
+/Users/johnmeissner/Documents/Projects/Sales/Sales/bin/Debug/net5.0/Sales.runtimeconfig.dev.json
+/Users/johnmeissner/Documents/Projects/Sales/Sales/bin/Debug/net5.0/Sales.dll
+/Users/johnmeissner/Documents/Projects/Sales/Sales/bin/Debug/net5.0/ref/Sales.dll
+/Users/johnmeissner/Documents/Projects/Sales/Sales/bin/Debug/net5.0/Sales.pdb
+/Users/johnmeissner/Documents/Projects/Sales/Sales/obj/Debug/net5.0/Sales.csproj.AssemblyReference.cache
+/Users/johnmeissner/Documents/Projects/Sales/Sales/obj/Debug/net5.0/Sales.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnmeissner/Documents/Projects/Sales/Sales/obj/Debug/net5.0/Sales.AssemblyInfoInputs.cache
+/Users/johnmeissner/Documents/Projects/Sales/Sales/obj/Debug/net5.0/Sales.AssemblyInfo.cs
+/Users/johnmeissner/Documents/Projects/Sales/Sales/obj/Debug/net5.0/Sales.csproj.CoreCompileInputs.cache
+/Users/johnmeissner/Documents/Projects/Sales/Sales/obj/Debug/net5.0/Sales.dll
+/Users/johnmeissner/Documents/Projects/Sales/Sales/obj/Debug/net5.0/ref/Sales.dll
+/Users/johnmeissner/Documents/Projects/Sales/Sales/obj/Debug/net5.0/Sales.pdb
+/Users/johnmeissner/Documents/Projects/Sales/Sales/obj/Debug/net5.0/Sales.genruntimeconfig.cache
