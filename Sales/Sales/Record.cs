@@ -7,25 +7,22 @@ namespace Sales
 {
     class Record
     {
-        public int SaleID;
-        public string Product_Name;
-        public int Quantity;
-        public float Price;
-        public string Date;
+        public int SaleID { get; set; }
+        public string Product_Name { get; set; }
+        public int Quantity { get; set; }
+        public float Price { get; set; }
+        public DateTime date = DateTime.Now; 
 
-        public Record()
+    public Record()
         {
 
         }
 
-        public Record(int SaleID, string Product_name, int Quantity, float Price, string Date)
+        public Record(int SaleID, string Product_name, int Quantity, float Price, int Date)
         {
 
         }
 
-        internal void Add(Record records)
-        {
-            throw new NotImplementedException();
-        }
+        
     }
 }

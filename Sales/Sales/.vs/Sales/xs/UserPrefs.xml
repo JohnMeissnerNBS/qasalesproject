@@ -1,10 +1,11 @@
 ﻿<Properties StartupConfiguration="{3866F12B-7DD8-4098-946E-2C301BF7394F}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="MenuController.cs">
     <Files>
-      <File FileName="Records.cs" Line="10" Column="27" />
-      <File FileName="Menu.cs" Line="1" Column="14" />
-      <File FileName="MenuController.cs" Line="31" Column="23" />
-      <File FileName="Program.cs" Line="15" Column="1" />
+      <File FileName="Records.cs" Line="22" Column="10" />
+      <File FileName="Menu.cs" Line="109" Column="66" />
+      <File FileName="MenuController.cs" Line="34" Column="1" />
+      <File FileName="Program.cs" Line="11" Column="1" />
+      <File FileName="MenuService.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -22,7 +23,9 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/johnmeissner/Documents/Repos/qasalesproject/Sales/Sales/Program.cs" relfile="Program.cs" line="4" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

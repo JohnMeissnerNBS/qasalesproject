@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Sales
-build_property.ProjectDir = /Users/johnmeissner/Documents/Projects/Sales/Sales/
+build_property.ProjectDir = /Users/johnmeissner/Documents/Repos/qasalesproject/Sales/Sales/

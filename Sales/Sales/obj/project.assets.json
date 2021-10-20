@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/johnmeissner/Documents/Projects/Sales/Sales/Sales.csproj",
+      "projectUniqueName": "/Users/johnmeissner/Documents/Repos/qasalesproject/Sales/Sales/Sales.csproj",
       "projectName": "Sales",
-      "projectPath": "/Users/johnmeissner/Documents/Projects/Sales/Sales/Sales.csproj",
+      "projectPath": "/Users/johnmeissner/Documents/Repos/qasalesproject/Sales/Sales/Sales.csproj",
       "packagesPath": "/Users/johnmeissner/.nuget/packages/",
-      "outputPath": "/Users/johnmeissner/Documents/Projects/Sales/Sales/obj/",
+      "outputPath": "/Users/johnmeissner/Documents/Repos/qasalesproject/Sales/Sales/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/johnmeissner/.config/NuGet/NuGet.Config"

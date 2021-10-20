@@ -5,6 +5,10 @@ namespace Sales
     {
         private readonly MenuController menuController;
 
+        public Menu()
+        {
+        }
+
         public Menu(MenuController menucontroller)
         {
             this.menuController = menucontroller;
@@ -14,47 +18,123 @@ namespace Sales
         public void PrintMenu()
 
         {
-            //provide user with menu options
-            Console.WriteLine("Hello please type Data Entry or Records");
-            // read user input
-            string input = Console.ReadLine();
-
-
-
-
-            switch (input)
             {
-                case "Data Entry" or "data entry":
+                MainMenu();
+            }
 
+            static void MainMenu()
+            {
+                Console.WriteLine("=========== Main Menu ===========");
 
-                    {
-                        Console.WriteLine("hello");
-                        MenuController.create();
-                    }
+                Console.WriteLine("[1] Data Entry");
+                Console.WriteLine("[2] Records");
+                
 
-                    break;
+                string choice = Console.ReadLine();
+            
 
-                case "Records" or "records":
+            int number;
+            bool result = Int32.TryParse(choice, out number);
 
-                    {
+            if (result)
+            {
+                Console.Clear();
+                SubMenu(number);
+            }
+            else
+            {
+                Console.WriteLine("invalid option");
+            }
 
-                        Console.WriteLine("Please type either Sales by year, Sales by month and year, Total sales by year or Total sales by year and month");
+        }
+
+        static void SubMenu(int mainMenuChoice)
+
+        {
+            switch (mainMenuChoice)
+            {
+                case 1:
+
+                        MenuController.Create();
                         
 
+                    break;
 
+                case 2:
 
-                    }
+                    Console.WriteLine("Please select a records option");
+                    Console.WriteLine("[1] Sales by Year");
+                    Console.WriteLine("[2] Sales by Month and Year");
+                    Console.WriteLine("[3] Total Sales by Year");
+                    Console.WriteLine("[4] Total Sales by Year and Month");
 
                     break;
 
-                default:
+                
+
+
+
+
+
+            }
+
+            string choice = Console.ReadLine();
+
+            int number;
+            bool result = Int32.TryParse(choice, out number);
+            if (result)
+            {
+                Action(mainMenuChoice, number);
+
+            }
+            else
+            {
+                Console.WriteLine("Incorrect choice");
+            }
+
+        }
+
+        static void Action(int menu, int choice)
+        {
+            switch (menu)
+            {
+
+                case 2:
+
+                    switch (choice)
 
                     {
-                        Console.WriteLine("Invalid Selection");
+
+                        case 1:
+                                MenuController.ReadSalesbyyear();
+
+                            break;
+
+                        case 2:
+                                MenuController.ReadSalesbymonthandyear();
+
+                            break;
+
+                        case 3:
+                                MenuController.ReadTotalsalesbyyear();
+
+                            break;
+
+                        case 4:
+                                MenuController.ReadTotalsalesbyyearandmonth();
+
+                            break;
 
                     }
 
                     break;
+
+
+            }
+                
+
+
+            
 
 
 
