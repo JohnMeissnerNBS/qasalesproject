@@ -54,17 +54,17 @@ This project is being done to test how well I've taken in the knowledge which I'
 
 - HOW DID I EXPECT THE CHALLENGE TO GO -
 
-I found it difficult to keep up with the C# lectures as the learning style was too fast for my learning style. Due to this I felt concerned that I would struggle to complete the project.
+I found it difficult to keep up with the C# lectures as the learning style was too fast for me. Due to this I felt concerned that I would struggle to complete the project.
 
 - WHAT WENT WELL -
 
-I managed to create a menu and sub menu and link up the MenuController and RecordService classes. 
+I managed to create a menu and sub menu and link up the MenuController and RecordService classes. I also partially completed a repository, CreateReadRepository and a Utils class but these were incomplete.
 
-It was generally good to actually have an extended period of practical practice on C sharp so that I could figure out for myself why certain things werent working.
+It was generally good to actually have an extended period of practical practice on C sharp so that I could figure out for myself why certain things werent working which helped improve my overall understanding of the language.
 
 - WHAT DID NOT GO SO WELL -
 
-As I thought I did find the project very difficult overall as I felt undermined by the fact that I was unable to fully understand all of the material taught. This meant that I had gaps where my understanding was limited.
+As I thought I did find the project very difficult overall as I felt undermined by the fact that I was unable to fully understand all of the material taught. This meant that I had gaps where my understanding was limited and hence this affected my ability to complete the project.
 
 - POSSIBLE IMPROVEMENTS FOR THE FUTURE -
 
